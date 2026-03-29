@@ -2,8 +2,7 @@
 
 ## 🚀 Full-Stack Web Developer
 
-I build scalable and maintainable web applications.
-Focused on clean architecture, strong typing, and long-term readability.
+I build scalable web applications. My priority is clean architecture, strong typing, and systems that remain understandable months after they’re written.
 
 ---
 
@@ -30,10 +29,10 @@ Focused on clean architecture, strong typing, and long-term readability.
 
 ## 🎯 Current Focus
 
-* Backend-heavy full-stack applications
-* API design, validation, error handling
-* Authentication & authorization systems
-* Scalable architecture
+Backend-heavy full-stack applications
+API design, validation, and error handling
+Authentication & authorization mechanisms
+Codebases that scale without becoming fragile
 
 ---
 
@@ -46,9 +45,9 @@ Focused on clean architecture, strong typing, and long-term readability.
 
 ---
 
-## ⚡ Mindset
+## ⚡ Development Mindset
 
 Structure before speed
 Readability over cleverness
-Security is part of design
+Security is part of design, not an afterthought
 Every abstraction must earn its place
