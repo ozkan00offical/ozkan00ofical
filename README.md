@@ -23,7 +23,6 @@ I build scalable web applications. My priority is clean architecture, strong typ
   <img src="https://skillicons.dev/icons?i=express" height="50" />
 </p>
 
-
 ---
 
 ## 🎯 Current Focus
