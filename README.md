@@ -46,12 +46,6 @@ Focused on clean architecture, strong typing, and long-term readability.
 
 ---
 
-## 📫 Contact
-
-* GitHub: https://github.com/offical00ozkan
-
----
-
 ## ⚡ Mindset
 
 Structure before speed
