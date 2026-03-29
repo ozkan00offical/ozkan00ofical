@@ -9,21 +9,20 @@ I build scalable web applications. My priority is clean architecture, strong typ
 ## 🛠️ Tech Stack
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript" />
-<img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript" />
-<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python" />
-<img src="https://img.shields.io/badge/TailwindCSS-000000?style=for-the-badge&logo=tailwind-css" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js" />
-<img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react" />
-<img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql" />
-<img src="https://img.shields.io/badge/Prisma-000000?style=for-the-badge&logo=prisma" />
-<img src="https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman" />
-<img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express" />
-
+  <img src="https://skillicons.dev/icons?i=linux" height="50" />
+  <img src="https://skillicons.dev/icons?i=js" height="50" />
+  <img src="https://skillicons.dev/icons?i=ts" height="50" />
+  <img src="https://skillicons.dev/icons?i=python" height="50" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="50" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="50" />
+  <img src="https://skillicons.dev/icons?i=react" height="50" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="50" />
+  <img src="https://skillicons.dev/icons?i=prisma" height="50" />
+  <img src="https://skillicons.dev/icons?i=postman" height="50" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="50" />
+  <img src="https://skillicons.dev/icons?i=express" height="50" />
 </p>
+
 
 ---
 
