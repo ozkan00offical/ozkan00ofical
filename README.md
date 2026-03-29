@@ -1,14 +1,16 @@
-# 👋 Hi there, I'm Ramazan ÖZKAN
+## Hi there 👋 I'm Ramazan ÖZKAN
 
-## 🚀 Full-Stack Web Developer
+**Full-Stack Web Developer**
 
-I build scalable web applications. My priority is clean architecture, strong typing, and systems that remain understandable months after they’re written.
+I build scalable web applications.
+My priority is clean architecture, strong typing, and systems that remain understandable
+months after they’re written.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=linux" height="50" />
   <img src="https://skillicons.dev/icons?i=js" height="50" />
   <img src="https://skillicons.dev/icons?i=ts" height="50" />
@@ -25,27 +27,34 @@ I build scalable web applications. My priority is clean architecture, strong typ
 
 ---
 
-## 🎯 Current Focus
-
-Backend-heavy full-stack applications
-API design, validation, and error handling
-Authentication & authorization mechanisms
-Codebases that scale without becoming fragile
+### Current Focus
+- Backend-heavy full-stack applications
+- API design, validation, and error handling
+- Authentication & authorization mechanisms
+- Codebases that scale without becoming fragile
 
 ---
 
-## 📊 GitHub Stats
+### 📊 Languages & Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=offical00ozkan&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=offical00ozkan&layout=compact&theme=tokyonight" />
+<p align="left">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=ozkan00offical&show_icons=true&theme=tokyonight&hide_border=true"
+    height="160"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozkan00offical&layout=compact&theme=tokyonight&hide_border=true"
+    height="160"
+  />
+  <img
+    src="https://streak-stats.demolab.com?user=ozkan00offical&theme=tokyonight&hide_border=true"
+    height="160"
+  />
 </p>
-
 ---
 
-## ⚡ Development Mindset
-
-Structure before speed
-Readability over cleverness
-Security is part of design, not an afterthought
-Every abstraction must earn its place
+### Development Mindset
+- Structure before speed
+- Readability over cleverness
+- Security is part of design, not an afterthought
+- Every abstraction must earn its place
