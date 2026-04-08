@@ -43,6 +43,7 @@ months after they’re written.
     height="160"
   />
 </p>
+
 ---
 
 ### Development Mindset
