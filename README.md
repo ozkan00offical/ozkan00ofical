@@ -39,14 +39,6 @@ months after they’re written.
 
 <p align="left">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=ozkan00offical&show_icons=true&theme=tokyonight&hide_border=true"
-    height="160"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozkan00offical&layout=compact&theme=tokyonight&hide_border=true"
-    height="160"
-  />
-  <img
     src="https://streak-stats.demolab.com?user=ozkan00offical&theme=tokyonight&hide_border=true"
     height="160"
   />
